@@ -56,7 +56,7 @@ Once python is installed run
 `pip install requirements.txt`
 
 <b> Running Cursor </b>
-1. change directory to Hackverse/Cursor using `cd Hackverse/Cursor`
+1. change directory to 'Cursor'
 2. Run `Cursor.ipynb`
 
 ## Declaration of Previous Work
